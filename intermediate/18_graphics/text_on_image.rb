@@ -11,3 +11,5 @@ copyright.annotate(img, 0, 0, 3, 18, my_text) do
   self.gravity = Magick::SouthEastGravity
 end
 img.write('mac_coffee_copyrighted.jpeg')
+
+p "lol"
